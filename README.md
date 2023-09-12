@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there. I am Gabriel Lingnau 👋
 
-<!--
-**Gabrielingnau/Gabrielingnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 I am currently studying to perfect my skills as a junior programmer.
+## 🎉 I’m currently learning
+- automated tests with Jest
+- Typescript
+## 🚀 What I already know
+- main language `javascript
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `javascript`
+- Layout Design: `Figma`
+- Versiond code control: `Git & Github`
+- Tool: `VsCode`
+- Eu sou mais ativo dentro da 'Comunidade Rocketseat'.
+## 📫 Contacts
+- Email: gabertrol@gmail.com
+- Linkedin: https://www.linkedin.com/in/gabriel-lingnau-3bb17b266/

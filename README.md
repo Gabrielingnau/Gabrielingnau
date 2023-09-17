@@ -13,5 +13,5 @@
 - Tool: `VsCode`
 - Eu sou mais ativo dentro da 'Comunidade Rocketseat'.
 ## 📫 Contacts
-- Email: gabertrol@gmail.com
+- Email: gabrielingnau@gmail.com
 - Linkedin: https://www.linkedin.com/in/gabriel-lingnau-3bb17b266/

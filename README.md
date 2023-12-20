@@ -6,8 +6,8 @@
 - Typescript
 ## 🚀 What I already know
 - main language `javascript
-- Backend: `Nodejs`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`, `javascript`
+- Backend: `Nodejs`, `typescript`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `javascript`, `typescript`
 - Layout Design: `Figma`
 - Versiond code control: `Git & Github`
 - Tool: `VsCode`

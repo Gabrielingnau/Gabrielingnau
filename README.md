@@ -2,12 +2,12 @@
 
 ### 📝 I am currently studying to perfect my skills as a junior programmer.
 ## 🎉 I’m currently learning
-- automated tests with Jest
-- Typescript
+- React Native
+- Inglês
 ## 🚀 What I already know
 - main language `javascript
 - Backend: `Nodejs`, `typescript`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`, `javascript`, `typescript`
+- Frontend: `Reactjs`, `React Native` `HTML5`, `CSS3`, `javascript`, `typescript`
 - Layout Design: `Figma`
 - Versiond code control: `Git & Github`
 - Tool: `VsCode`

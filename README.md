@@ -1,17 +1,21 @@
-## Hi there. I am Gabriel Lingnau 👋
+## Oi. Eu sou Gabriel Lingnau 👋
 
-### 📝 I am currently studying to perfect my skills as a junior programmer.
-## 🎉 I’m currently learning
-- React Native
+### 📝 Atualmente estou estudando para aperfeiçoar minhas habilidades como programador júnior.
+
+## 🎉 Atualmente estou aprendendo
+- React native
+- React (Estou me aperfeiçoando ainda mais)
 - Inglês
-## 🚀 What I already know
-- main language `javascript
-- Backend: `Nodejs`, `typescript`
-- Frontend: `Reactjs`, `React Native` `HTML5`, `CSS3`, `javascript`, `typescript`
-- Layout Design: `Figma`
-- Versiond code control: `Git & Github`
-- Tool: `VsCode`
+  
+## 🚀 O que eu já sei
+- Idioma principal 'JavaScript
+- Backend: 'Nodejs', 'typescript'
+- Frontend: 'Reactjs', 'React Native', 'HTML5', 'CSS3', 'javascript', 'typescript'
+- Design de layout: 'Figma'
+- Controle de código versionado: 'Git & Github'
+- Ferramenta: 'VsCode'
 - Eu sou mais ativo dentro da 'Comunidade Rocketseat'.
-## 📫 Contacts
-- Email: gabrielingnau@gmail.com
+- 
+## 📫 Contatos
+- E-mail: gabrielingnau@gmail.com
 - Linkedin: https://www.linkedin.com/in/gabriel-lingnau-3bb17b266/

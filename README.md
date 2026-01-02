@@ -3,14 +3,14 @@
 ### 📝 Atualmente estou estudando para aperfeiçoar minhas habilidades como programador júnior.
 
 ## 🎉 Atualmente estou aprendendo
-- React native
-- React (Estou me aperfeiçoando ainda mais)
+- React native (Estou me aperfeiçoando ainda mais)
+- Next (Estou me aperfeiçoando ainda mais)
 - Inglês
   
 ## 🚀 O que eu já sei
 - Idioma principal 'JavaScript
-- Backend: 'Nodejs', 'typescript'
-- Frontend: 'Reactjs', 'React Native', 'HTML5', 'CSS3', 'javascript', 'typescript'
+- Backend: 'Nodejs', 'Bun' 'typescript'
+- Frontend: 'Reactjs', 'Next.js' 'Tailwind' 'React Native', 'HTML5', 'CSS3', 'javascript', 'typescript'
 - Design de layout: 'Figma'
 - Controle de código versionado: 'Git & Github'
 - Ferramenta: 'VsCode'
